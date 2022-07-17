@@ -3,28 +3,29 @@
 ## I'm beginner python backend developer
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=47C5FB)
-![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=47C5FB)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=6296CC)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Python-09131b?style=for-the-badge&logo=Python&logoColor=fffa14)
+![Django](https://img.shields.io/badge/-Django-09131b?style=for-the-badge&logo=Django&logoColor=008f00)
+![Flask](https://img.shields.io/badge/-Flask-09131b?style=for-the-badge&logo=Flask&logoColor=008054)
+![C++](https://img.shields.io/badge/-C++-09131b?style=for-the-badge&logo=cplusplus&logoColor=0087ff)
+![C](https://img.shields.io/badge/-C-09131b?style=for-the-badge&logo=c&logoColor=4d009c)
 
 [comment]: <> (![FastAPI]&#40;https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=47C5FB&#41;)
 
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-090909?style=for-the-badge&logo=PostgreSql&logoColor=47C5FB)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft&nbsp;SQL&nbsp;Server-090909?style=for-the-badge&logo=microsoftsqlserver&logoColor=47C5FB)
-![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql&logoColor=47C5FB)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-09131b?style=for-the-badge&logo=PostgreSql&logoColor=47C5FB)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-09131b?style=for-the-badge&logo=microsoftsqlserver&logoColor=c14500)
+![MySql](https://img.shields.io/badge/-MySql-09131b?style=for-the-badge&logo=MySql&logoColor=47C5FB)
 
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=47C5FB)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=47C5FB)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
+![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
+![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
+![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=ebff)
 
 [comment]: <> (![Heroku]&#40;https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB&#41;)
 
 
-
-
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/barsukh)
-[![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=data:?logo=data:image/svg;base64,https://stepik.org/static/frontend/topbar_logo.svg&logoColor=27A0D9)](https://stepik.org/users/293367606)
+[![Telegram](https://img.shields.io/badge/-Telegram-09131b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/barsukh)
+[![Stepik](https://img.shields.io/badge/-Stepik-09131b?style=for-the-badge&?logo=data:image/png;base64,https://stepik.org/static/frontend/topbar_logo.svg&logoColor=27A0D9)](https://stepik.org/users/293367606)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLex13&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLex13&langs_count=5&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
