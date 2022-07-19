@@ -6,8 +6,10 @@
 ![Python](https://img.shields.io/badge/-Python-09131b?style=for-the-badge&logo=Python&logoColor=fffa14)
 ![Django](https://img.shields.io/badge/-Django-09131b?style=for-the-badge&logo=Django&logoColor=008f00)
 ![Flask](https://img.shields.io/badge/-Flask-09131b?style=for-the-badge&logo=Flask&logoColor=008054)
-![C++](https://img.shields.io/badge/-C++-09131b?style=for-the-badge&logo=cplusplus&logoColor=0087ff)
-![C](https://img.shields.io/badge/-C-09131b?style=for-the-badge&logo=c&logoColor=4d009c)
+![C++](https://img.shields.io/badge/-C++-09131b?style=for-the-badge&logo=cplusplus&logoColor=659ad2)
+![C](https://img.shields.io/badge/-C-09131b?style=for-the-badge&logo=c&logoColor=3748aa)
+![HTML](https://img.shields.io/badge/-HTML-09131b?style=for-the-badge&logo=html5&logoColor=e54c21)
+![CSS](https://img.shields.io/badge/-CSS-09131b?style=for-the-badge&logo=css3&logoColor=264de4)
 
 [comment]: <> (![FastAPI]&#40;https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=47C5FB&#41;)
 
@@ -17,8 +19,8 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
 ![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
-![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=ebff)
 
+[comment]: <> (![Docker]&#40;https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=ebff&#41;)
 [comment]: <> (![Heroku]&#40;https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB&#41;)
 
 
