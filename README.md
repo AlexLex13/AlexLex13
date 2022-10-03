@@ -11,8 +11,8 @@
 ![Java](https://img.shields.io/badge/-Java-09131b?style=for-the-badge&logo=java&logoColor=3748aa)
 ![HTML](https://img.shields.io/badge/-HTML-09131b?style=for-the-badge&logo=html5&logoColor=e54c21)
 ![CSS](https://img.shields.io/badge/-CSS-09131b?style=for-the-badge&logo=css3&logoColor=264de4)
-![JS](https://img.shields.io/badge/-JS-09131b?style=for-the-badge&logo=javascript&logoColor=264de4)
-![JQuery](https://img.shields.io/badge/-JQuery-09131b?style=for-the-badge&logo=jquery&logoColor=264de4)
+![JS](https://img.shields.io/badge/-JS-09131b?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![JQuery](https://img.shields.io/badge/-JQuery-09131b?style=for-the-badge&logo=jquery&logoColor=1066a9)
 
 
 [comment]: <> (![FastAPI]&#40;https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=47C5FB&#41;)
@@ -23,15 +23,15 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
 ![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
-![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=ebff)
+![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=2392e6)
 
 [comment]: <> (![Heroku]&#40;https://img.shields.io/badge/-Heroku-090909?style=for-the-badge&logo=heroku&logoColor=47C5FB&#41;)
 
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-09131b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/barsukh)
-[![Stepik](https://img.shields.io/badge/-Stepik-09131b?style=for-the-badge&?logo=data:image/svg;base64,https://github.com/AlexLex13/AlexLex13/blob/master/assets/images.png&logoColor=27A0D9)](https://stepik.org/users/293367606)
-[![Codewars](https://img.shields.io/badge/-Codewars-09131b?style=for-the-badge&logo=codewars&logoColor=27A0D9)](https://www.codewars.com/users/AlexLex13)
+[![Stepik](https://img.shields.io/badge/-Stepik-09131b?style=for-the-badge&logo=data:image/png;base64,https://github.com/AlexLex13/AlexLex13/blob/master/assets/images.png&logoColor=27A0D9)](https://stepik.org/users/293367606)
+[![Codewars](https://img.shields.io/badge/-Codewars-09131b?style=for-the-badge&logo=codewars&logoColor=ab341d)](https://www.codewars.com/users/AlexLex13)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLex13&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
