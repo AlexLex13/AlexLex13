@@ -19,7 +19,8 @@
 
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-09131b?style=for-the-badge&logo=PostgreSql&logoColor=47C5FB)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-09131b?style=for-the-badge&logo=microsoftsqlserver&logoColor=c14500)
-![MySql](https://img.shields.io/badge/-MySql-09131b?style=for-the-badge&logo=MySql&logoColor=47C5FB)
+
+[comment]: <> (![MySql]&#40;https://img.shields.io/badge/-MySql-09131b?style=for-the-badge&logo=MySql&logoColor=47C5FB&#41;)
 
 ![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
 ![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
