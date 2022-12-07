@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexLex13/AlexLex13/blob/master/assets/Frenzy.jpg?raw=true)](https://github.com/AlexLex13)
 
-## I'm beginner python backend developer
+## I'm beginner software engineer
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-09131b?style=for-the-badge&logo=Python&logoColor=fffa14)
