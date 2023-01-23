@@ -18,19 +18,18 @@
 
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-09131b?style=for-the-badge&logo=PostgreSql&logoColor=47C5FB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-09131b?style=for-the-badge&logo=mongodb&logoColor=00ed64)
-![Redis](https://img.shields.io/badge/-Redisl-09131b?style=for-the-badge&logo=redis&logoColor=d82c20)
+![Redis](https://img.shields.io/badge/-Redis-09131b?style=for-the-badge&logo=redis&logoColor=d82c20)
 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-09131b?style=for-the-badge&logo=	rabbitmq&logoColor=ff6600)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-09131b?style=for-the-badge&logo=rabbitmq&logoColor=ff6600)
 
 ![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
 ![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
 ![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=2392e6)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-09131b?style=for-the-badge&logo=kubernetes&logoColor=366ce8)
-
 ![Postman](https://img.shields.io/badge/-Postman-09131b?style=for-the-badge&logo=postman&logoColor=ff6c38)
 
 ![Poetry](https://img.shields.io/badge/-Poetry-09131b?style=for-the-badge&logo=poetry&logoColor=008ddf)
-![Apache Maven](https://img.shields.io/badge/-Apache Maven-09131b?style=for-the-badge&logo=apachemavens&logoColor=ca1a34)
+![Apache Maven](https://img.shields.io/badge/-Apache&nbsp;Maven-09131b?style=for-the-badge&logo=apachemaven&logoColor=ca1a34)
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/-Amazon AWS-09131b?style=for-the-badge&logo=amazonaws&logoColor=fffffc) -->
 <!-- ![Apache Cassandra](https://img.shields.io/badge/-Apache Cassandra-09131b?style=for-the-badge&logo=apachecassandra&logoColor=bce7fb) -->
