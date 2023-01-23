@@ -44,6 +44,8 @@
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-09131b?style=for-the-badge&logo=nodedotjs&logoColor=83cd29) -->
 <!-- ![React](https://img.shields.io/badge/-React-09131b?style=for-the-badge&logo=react&logoColor=00dcff) -->
 <!-- ![Terraform](https://img.shields.io/badge/-Terraform-09131b?style=for-the-badge&logo=terraform&logoColor=623ce4) -->
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-09131b?style=for-the-badge&logo=graphql&logoColor=#e535ab) -->
+<!-- ![GitHub Actions](https://img.shields.io/badge/-GitHub Actions-09131b?style=for-the-badge&logo=githubactions&logoColor=2088ff) -->
 
 
 ### Follow me
