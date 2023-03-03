@@ -10,6 +10,8 @@
 ![Pytest](https://img.shields.io/badge/-Pytest-09131b?style=for-the-badge&logo=pytest&logoColor=cad401)
 <!-- ![C](https://img.shields.io/badge/-C-09131b?style=for-the-badge&logo=c&logoColor=3748aa) -->
 ![Java](https://img.shields.io/badge/-Java-09131b?style=for-the-badge&logo=java&logoColor=3748aa)
+![Spring Boot](https://img.shields.io/badge/-Spring&nbsp;Boot-09131b?style=for-the-badge&logo=springboot&logoColor=6aad3d)
+![Go](https://img.shields.io/badge/--09131b?style=for-the-badge&logo=go&logoColor=00add8)
 ![HTML](https://img.shields.io/badge/-HTML-09131b?style=for-the-badge&logo=html5&logoColor=e54c21)
 ![CSS](https://img.shields.io/badge/-CSS-09131b?style=for-the-badge&logo=css3&logoColor=264de4)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09131b?style=for-the-badge&logo=bootstrap&logoColor=7809f7)
@@ -36,7 +38,6 @@
 <!-- ![Apache Kafka](https://img.shields.io/badge/-Apache Kafka-09131b?style=for-the-badge&logo=apachekafka&logoColor=ffffff) -->
 <!-- ![Celery](https://img.shields.io/badge/-Celery-09131b?style=for-the-badge&logo=celery&logoColor=8db054) -->
 <!-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-09131b?style=for-the-badge&logo=elasticsearch&logoColor=fec514) -->
-<!-- ![Go](https://img.shields.io/badge/--09131b?style=for-the-badge&logo=go&logoColor=00add8) -->
 <!-- ![Google Cloud](https://img.shields.io/badge/-Google Cloud-09131b?style=for-the-badge&logo=googleclouds&logoColor=4285f4) -->
 <!-- ![Gunicorn](https://img.shields.io/badge/-Gunicorn-09131b?style=for-the-badge&logo=gunicorn&logoColor=489747) -->
 <!-- ![Neo4j](https://img.shields.io/badge/-Neo4j-09131b?style=for-the-badge&logo=neo4j&logoColor=047fff) -->
