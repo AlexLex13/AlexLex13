@@ -11,7 +11,7 @@
 <!-- ![C](https://img.shields.io/badge/-C-09131b?style=for-the-badge&logo=c&logoColor=3748aa) -->
 ![Java](https://img.shields.io/badge/-Java-09131b?style=for-the-badge&logo=java&logoColor=3748aa)
 ![Spring Boot](https://img.shields.io/badge/-Spring&nbsp;Boot-09131b?style=for-the-badge&logo=springboot&logoColor=6aad3d)
-![Go](https://img.shields.io/badge/--09131b?style=for-the-badge&logo=go&logoColor=00add8)
+![GO](https://img.shields.io/badge/-GO-09131b?style=for-the-badge&logo=go&logoColor=00add8)
 ![HTML](https://img.shields.io/badge/-HTML-09131b?style=for-the-badge&logo=html5&logoColor=e54c21)
 ![CSS](https://img.shields.io/badge/-CSS-09131b?style=for-the-badge&logo=css3&logoColor=264de4)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09131b?style=for-the-badge&logo=bootstrap&logoColor=7809f7)
@@ -58,4 +58,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexLex13&hide=contribs,prs&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLex13&langs_count=5&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLex13&langs_count=6&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
