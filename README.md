@@ -11,21 +11,25 @@
 ![Java](https://img.shields.io/badge/-Java-09131b?style=for-the-badge&logo=java&logoColor=3748aa)
 ![Spring Boot](https://img.shields.io/badge/-Spring&nbsp;Boot-09131b?style=for-the-badge&logo=springboot&logoColor=6aad3d)
 ![GO](https://img.shields.io/badge/-GO-09131b?style=for-the-badge&logo=go&logoColor=00add8)
+![Node.js](https://img.shields.io/badge/-Node.js-09131b?style=for-the-badge&logo=nodedotjs&logoColor=83cd29)
+![JS](https://img.shields.io/badge/-JS-09131b?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![TS](https://img.shields.io/badge/-TS-09131b?style=for-the-badge&logo=typescript&logoColor=2f74c0)
+
 ![HTML](https://img.shields.io/badge/-HTML-09131b?style=for-the-badge&logo=html5&logoColor=e54c21)
 ![CSS](https://img.shields.io/badge/-CSS-09131b?style=for-the-badge&logo=css3&logoColor=264de4)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-09131b?style=for-the-badge&logo=bootstrap&logoColor=7809f7)
-![JS](https://img.shields.io/badge/-JS-09131b?style=for-the-badge&logo=javascript&logoColor=efd81d)
 
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-09131b?style=for-the-badge&logo=PostgreSql&logoColor=47C5FB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-09131b?style=for-the-badge&logo=mongodb&logoColor=00ed64)
 ![Redis](https://img.shields.io/badge/-Redis-09131b?style=for-the-badge&logo=redis&logoColor=d82c20)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-09131b?style=for-the-badge&logo=elasticsearch&logoColor=fec514)
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-09131b?style=for-the-badge&logo=rabbitmq&logoColor=ff6600)
-![Apache Kafka](https://img.shields.io/badge/-Apache&nbsp;Kafka-09131b?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+<!-- ![Apache Kafka](https://img.shields.io/badge/-Apache&nbsp;Kafka-09131b?style=for-the-badge&logo=apachekafka&logoColor=ffffff) -->
 
 ![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
 ![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
+![GitHub Actions](https://img.shields.io/badge/-GitHub&nbsp;Actions-09131b?style=for-the-badge&logo=githubactions&logoColor=2088ff)
+
 ![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=2392e6)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-09131b?style=for-the-badge&logo=kubernetes&logoColor=366ce8)
 
@@ -36,13 +40,11 @@
 <!-- ![Amazon AWS](https://img.shields.io/badge/-Amazon AWS-09131b?style=for-the-badge&logo=amazonaws&logoColor=fffffc) -->
 <!-- ![Apache Cassandra](https://img.shields.io/badge/-Apache&nbsp;Cassandra-09131b?style=for-the-badge&logo=apachecassandra&logoColor=bce7fb) -->
 <!-- ![Neo4j](https://img.shields.io/badge/-Neo4j-09131b?style=for-the-badge&logo=neo4j&logoColor=047fff) -->
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-09131b?style=for-the-badge&logo=nodedotjs&logoColor=83cd29) -->
 <!-- ![React](https://img.shields.io/badge/-React-09131b?style=for-the-badge&logo=react&logoColor=00dcff) -->
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-09131b?style=for-the-badge&logo=typescript&logoColor=2f74c0) -->
 <!-- ![Terraform](https://img.shields.io/badge/-Terraform-09131b?style=for-the-badge&logo=terraform&logoColor=623ce4) -->
 <!-- ![Ansible](https://img.shields.io/badge/-Ansible-09131b?style=for-the-badge&logo=ansible&logoColor=ffffff) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-09131b?style=for-the-badge&logo=graphql&logoColor=#e535ab) -->
-<!-- ![GitHub Actions](https://img.shields.io/badge/-GitHub Actions-09131b?style=for-the-badge&logo=githubactions&logoColor=2088ff) -->
+<!-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-09131b?style=for-the-badge&logo=elasticsearch&logoColor=fec514) -->
 
 
 ### Follow me
