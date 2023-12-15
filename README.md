@@ -8,12 +8,12 @@
 ![Flask](https://img.shields.io/badge/-Flask-09131b?style=for-the-badge&logo=Flask&logoColor=008054)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=47C5FB)
 <!-- ![C](https://img.shields.io/badge/-C-09131b?style=for-the-badge&logo=c&logoColor=3748aa) -->
-![Java](https://img.shields.io/badge/-Java-09131b?style=for-the-badge&logo=java&logoColor=3748aa)
-![Spring Boot](https://img.shields.io/badge/-Spring&nbsp;Boot-09131b?style=for-the-badge&logo=springboot&logoColor=6aad3d)
 ![GO](https://img.shields.io/badge/-GO-09131b?style=for-the-badge&logo=go&logoColor=00add8)
 ![Node.js](https://img.shields.io/badge/-Node.js-09131b?style=for-the-badge&logo=nodedotjs&logoColor=83cd29)
-![JS](https://img.shields.io/badge/-JS-09131b?style=for-the-badge&logo=javascript&logoColor=efd81d)
+
 ![TS](https://img.shields.io/badge/-TS-09131b?style=for-the-badge&logo=typescript&logoColor=2f74c0)
+![JS](https://img.shields.io/badge/-JS-09131b?style=for-the-badge&logo=javascript&logoColor=efd81d)
+![React](https://img.shields.io/badge/-React-09131b?style=for-the-badge&logo=react&logoColor=00dcff)
 
 ![HTML](https://img.shields.io/badge/-HTML-09131b?style=for-the-badge&logo=html5&logoColor=e54c21)
 ![CSS](https://img.shields.io/badge/-CSS-09131b?style=for-the-badge&logo=css3&logoColor=264de4)
@@ -40,7 +40,6 @@
 <!-- ![Amazon AWS](https://img.shields.io/badge/-Amazon AWS-09131b?style=for-the-badge&logo=amazonaws&logoColor=fffffc) -->
 <!-- ![Apache Cassandra](https://img.shields.io/badge/-Apache&nbsp;Cassandra-09131b?style=for-the-badge&logo=apachecassandra&logoColor=bce7fb) -->
 <!-- ![Neo4j](https://img.shields.io/badge/-Neo4j-09131b?style=for-the-badge&logo=neo4j&logoColor=047fff) -->
-<!-- ![React](https://img.shields.io/badge/-React-09131b?style=for-the-badge&logo=react&logoColor=00dcff) -->
 <!-- ![Terraform](https://img.shields.io/badge/-Terraform-09131b?style=for-the-badge&logo=terraform&logoColor=623ce4) -->
 <!-- ![Ansible](https://img.shields.io/badge/-Ansible-09131b?style=for-the-badge&logo=ansible&logoColor=ffffff) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-09131b?style=for-the-badge&logo=graphql&logoColor=#e535ab) -->
