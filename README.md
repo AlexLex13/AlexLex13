@@ -1,6 +1,6 @@
 [![Header](https://github.com/AlexLex13/AlexLex13/blob/master/assets/Frenzy.jpg?raw=true)](https://github.com/AlexLex13)
 
-## I'm beginner software engineer
+## I'm software engineer
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-09131b?style=for-the-badge&logo=Python&logoColor=fffa14)
@@ -24,7 +24,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-09131b?style=for-the-badge&logo=redis&logoColor=d82c20)
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-09131b?style=for-the-badge&logo=rabbitmq&logoColor=ff6600)
-<!-- ![Apache Kafka](https://img.shields.io/badge/-Apache&nbsp;Kafka-09131b?style=for-the-badge&logo=apachekafka&logoColor=ffffff) -->
+![Apache Kafka](https://img.shields.io/badge/-Apache&nbsp;Kafka-09131b?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 
 ![Linux](https://img.shields.io/badge/-Linux-09131b?style=for-the-badge&logo=linux&logoColor=ffe19a)
 ![Git](https://img.shields.io/badge/-Git-09131b?style=for-the-badge&logo=Git&logoColor=ec6400)
