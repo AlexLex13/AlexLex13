@@ -32,6 +32,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-09131b?style=for-the-badge&logo=Docker&logoColor=2392e6)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-09131b?style=for-the-badge&logo=kubernetes&logoColor=366ce8)
+![Helm](https://img.shields.io/badge/-Helm-09131b?style=for-the-badge&logo=helm&logoColor=14769d)
 
 ![NGINX](https://img.shields.io/badge/-NGINX-09131b?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-09131b?style=for-the-badge&logo=gunicorn&logoColor=489747)
@@ -43,7 +44,14 @@
 <!-- ![Terraform](https://img.shields.io/badge/-Terraform-09131b?style=for-the-badge&logo=terraform&logoColor=623ce4) -->
 <!-- ![Ansible](https://img.shields.io/badge/-Ansible-09131b?style=for-the-badge&logo=ansible&logoColor=ffffff) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-09131b?style=for-the-badge&logo=graphql&logoColor=#e535ab) -->
-<!-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-09131b?style=for-the-badge&logo=elasticsearch&logoColor=fec514) -->
+
+
+<!-- ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-09131b?style=for-the-badge&logo=elasticsearch&logoColor=3eb8aa) -->
+<!-- ![Logstash](https://img.shields.io/badge/-Logstash-09131b?style=for-the-badge&logo=logstash&logoColor=fec514) -->
+<!-- ![Kibana](https://img.shields.io/badge/-Kibana-09131b?style=for-the-badge&logo=kibana&logoColor=e24587) -->
+
+<!-- ![Prometheus](https://img.shields.io/badge/-Prometheus-09131b?style=for-the-badge&logo=prometheus&logoColor=e7522c) -->
+<!-- ![Grafana](https://img.shields.io/badge/-Grafana-09131b?style=for-the-badge&logo=grafana&logoColor=ea751f) -->
 
 
 ### Follow me
