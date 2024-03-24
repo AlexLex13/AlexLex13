@@ -25,8 +25,8 @@
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-09131b?style=for-the-badge&logo=PostgreSql&logoColor=47C5FB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-09131b?style=for-the-badge&logo=mongodb&logoColor=00ed64)
 ![Redis](https://img.shields.io/badge/-Redis-09131b?style=for-the-badge&logo=redis&logoColor=d82c20)
-<!-- ![Apache Cassandra](https://img.shields.io/badge/-Apache&nbsp;Cassandra-09131b?style=for-the-badge&logo=apachecassandra&logoColor=bce7fb) -->
-<!-- ![Neo4j](https://img.shields.io/badge/-Neo4j-09131b?style=for-the-badge&logo=neo4j&logoColor=047fff) -->
+![Apache Cassandra](https://img.shields.io/badge/-Apache&nbsp;Cassandra-09131b?style=for-the-badge&logo=apachecassandra&logoColor=bce7fb)
+![Neo4j](https://img.shields.io/badge/-Neo4j-09131b?style=for-the-badge&logo=neo4j&logoColor=047fff)
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-09131b?style=for-the-badge&logo=firebase&logoColor=f7c52b) -->
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-09131b?style=for-the-badge&logo=rabbitmq&logoColor=ff6600)
